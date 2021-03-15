@@ -7,6 +7,10 @@
   }
   
   .header a {
-    color: #fff;
+    color: rgb(228, 206, 206);
     text-decoration: none;
+  }
+  
+  .header a:hover {
+    color: #fff;
   }
